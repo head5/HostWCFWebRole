@@ -1,0 +1,2 @@
+D:\Projects\Diagnostics\HostWCFWebRole\HostWCFWebRole\bin\Debug\ServiceConfiguration.cscfg
+D:\Projects\Diagnostics\HostWCFWebRole\HostWCFWebRole\bin\Debug\ServiceDefinition.csdef
